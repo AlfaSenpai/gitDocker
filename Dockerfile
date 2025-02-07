@@ -1,6 +1,6 @@
 FROM nginx 
 
-RUN apt-get update && apt-get install -y vim nano htop curl
+RUN apt-get update && apt-get install -y htop
 
 EXPOSE 80
 
