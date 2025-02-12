@@ -7,3 +7,8 @@ services:
       - "8080:80"
     volumes:
       - ./nginx:/usr/share/nginx/html
+
+  php:
+    image: php:8.1-fpm
+    volumes:
+      - ./www:/var/www/html
