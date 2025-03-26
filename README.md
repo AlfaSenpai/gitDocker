@@ -56,6 +56,6 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 
 ## 📞 Contacto
 
-Para cualquier consulta, puedes contactarme a través de pagina web alfonsofernandeztalaero.es
+Para cualquier consulta, puedes contactarme a través de [GitHub](https://github.com/AlfaSenpai) o traves de mi pagina alfonsofernandeztalaero.es.
 
 ¡Gracias por visitar el proyecto! 🎉
